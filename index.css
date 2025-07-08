@@ -13,11 +13,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-bottom: 20px;
-   
     
-    
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .text-color{
     color: white;
