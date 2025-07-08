@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Banner{
+    width: 1100px;
+    height: 600px;
+    background-image: url(Banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-bottom: 20px;
+   
+    
+    
+}
+.text-color{
+    color: white;
+    font-weight: bold;
+    
+}
+.p1{
+    font-size: 35px;
+    color: white;
+}
+.p2{
+    font-size: 65px;
+}
+.banner-contenet{
+    text-align: center;
+}
+.overlay {
+      z-index: 1;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 4);
+      color:white;
+}
+.middle{
+    text-align: center;
+   
+}
+.red{
+    font-weight: bold;
+    font-size: 60px;
+    color: red;
+     margin-bottom: 10px;
+}
+.red1{
+    color: red;
+     font-size: 14px;
+      margin-bottom: 10px;
+}
+.red3{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.middle2{
+    background-image:url(images/Vectorrr.png) ;
+    width: 1100px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+     margin-bottom: 50px;
+     
+}
+.imgg {
+    position: absolute; 
+    right: 0;              
+    bottom: 0;            
+    height: 350px;        
+    width:250 ;     
+    margin-right: 40px;
+    margin-bottom: 30px;
+
+    
+}
+
+
